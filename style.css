@@ -38,10 +38,22 @@ body{
      text-align: center;
      padding: 10px 50px 30px;
   }
- div.menu{
-     padding: 40px 50px 00px;
-
+ .menu{
+   
+    border-radius: 20px;  
  }
- #sb{
-     padding-right: 200px;
- }
+ #sm {
+    padding-right: 100px;
+    
+}
+#mh {
+    padding-right: 100px; 
+    padding-left: 100px;
+}
+#mp {
+    padding-right: 100px;
+    padding-left: 100px;
+}
+#l {
+    padding-left: 100px;
+}
